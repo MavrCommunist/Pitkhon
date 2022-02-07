@@ -1,0 +1,31 @@
+запрос на 1 слово:
+https://export.arxiv.org/find/all/1/all:+natural/0/1/0/all/0/1
+1 слово - natural
+
+запрос на 2 слова:
+https://export.arxiv.org/find/all/1/all:+AND+binary+algebra/0/1/0/all/0/1
+1 слово - binary
+2 слово - algebra
+
+запрос на 3 слова:
+https://export.arxiv.org/find/all/1/all:+AND+networks+AND+convolutional+neural/0/1/0/all/0/1
+1 слово - convolutional
+2 слово - neural
+3 слово - networks
+
+запрос на 4 слова:
+https://export.arxiv.org/find/all/1/all:+AND+composing+AND+abstract+AND+technology+of/0/1/0/all/0/1
+1 слово - technology
+2 слово - of
+3 слово - abstract
+4 слово - composing
+
+запрос на 5 слов:
+https://export.arxiv.org/find/all/1/all:+AND+bases+AND+data+AND+in+AND+graph+theory/0/1/0/all/0/1
+1 слово - graph
+2 слово - theory
+3 слово - in
+4 слово - data
+5 слово - bases
+
+т.е. 2 слова между последним +AND и / - 2 первых слова, слева от них третье, слева от него четвёртое, а самое первое в ссылке - самое последнее в запросе.

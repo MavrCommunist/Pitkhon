@@ -1,0 +1,5 @@
+https://export.arxiv.org/find/all/1/all:+AND+networks+AND+convolutional+neural/0/1/0/all/0/1
+https://export.arxiv.org/find/all/1/all:+aerodynamics/0/1/0/all/0/1
+https://export.arxiv.org/find/all/1/all:+AND+industrial+robots/0/1/0/all/0/1
+https://export.arxiv.org/find/all/1/all:+AND+bio+resistance/0/1/0/all/0/1
+https://export.arxiv.org/find/all/1/all:+AND+space+AND+quaternions+in/0/1/0/all/0/1

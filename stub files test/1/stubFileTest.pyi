@@ -1,0 +1,9 @@
+from typing import overload
+
+
+from typing import Union
+@overload
+def sum(a: str, b: str) -> str: ...
+@overload
+def sum(a: int, b: int) -> int: ...
+def min(c: Union[int, float], d: Union[int, float]) -> Union[int, float]: ...
